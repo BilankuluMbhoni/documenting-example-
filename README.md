@@ -2,7 +2,15 @@
 
 ## Table of contents 
 
+- [Project Overview](#Project Overview)
+- [Data Source](#Data Source)
 - [Tools](#Tools).
+- [Data Cleaning/Preparation](#Data Cleaning/Preparation)
+- [Exploratory Data Analysis](#Exploratory Data Analysis)
+-  [ Data-Analysis](#Data-Analysis)
+- [Results/findings ](#Results/findings)
+- [Recommendations](#Recommendations)
+-  [limitations](#limitations)
 
 ## Project Overview 
 This Data Analysis project Aims to provide insights into the sales performance of an e-commerce company over the past year. By analyxing various aspects of the sales data, we seek to identify trends , make data-driven  recomendation, and gain a deeper understanding of the company's performance 
