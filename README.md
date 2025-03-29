@@ -1,5 +1,9 @@
 # E-Commerce Sales Analysis
 
+## Table of contents 
+
+-[Tools].(#Tools).
+
 ## Project Overview 
 This Data Analysis project Aims to provide insights into the sales performance of an e-commerce company over the past year. By analyxing various aspects of the sales data, we seek to identify trends , make data-driven  recomendation, and gain a deeper understanding of the company's performance 
 
@@ -26,9 +30,25 @@ In the Initial data preparation Phase, We performed the following task:
 
    ## Data Analysis 
 
-include some  interesting code 
+include some  interesting code
+
 ``` sql
 Select * FROM table1
 WHERE COND = 2;
-    ```
+```
+## Results/findings 
+
+The analysis results are summarised as follows :
+- The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
+- product Catergory a is the  best-performing catergory in terms of sales and revenue.
+- customer segments with high lifetime  value (LTV) should be targeted for markrting efforts .
+
+## Recommendations 
+  Based on the analysis, we recommend the following actions:
+    - Invest in marketing and promotions During peak seasons to maximize revenue.
+    - focus on expanding and promoting products in Catergory 4 
+    - implement a customer segmentation strategy to target high-ltv customers effectively 
+
+ ## limitations
+I Had to remove all zero values from budget and revenue columns because they would have effected the accurancy of my conclusions from the analysis. there are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue 
 
