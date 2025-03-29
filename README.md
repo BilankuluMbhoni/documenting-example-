@@ -10,3 +10,25 @@ Sales Data: The primary dataset used for this analysis is the "sales_data.csv" f
   - Excel - Data Cleaning 
   - SQL Server - Data Analysis
   - PowerBi - Creating Report
+    
+## Data Cleaning/Preparation 
+
+In the Initial data preparation Phase, We performed the following task: 
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and Formating.
+
+## Exploratory Data Analysis 
+
+1. What is overall sales trend?
+2. which products are top sellers?
+3. what are the peak sales period?
+
+   ## Data Analysis 
+
+include some  interesting code 
+``` sql
+Select * FROM table1
+WHERE COND = 2;
+    ```
+
